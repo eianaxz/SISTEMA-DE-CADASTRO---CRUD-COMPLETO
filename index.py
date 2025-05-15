@@ -1,3 +1,16 @@
+"""
+Sistema de Cadastro - Interface Gráfica (Front-End)
+
+Este módulo implementa a interface gráfica de um sistema de cadastro usando a biblioteca Tkinter.
+O usuário poderá realizar operações de CRUD (Criar, Ler, Atualizar, Excluir) em sua conta.
+
+Funcionalidades:
+- Criação da janela principal com título, tamanho fixo e fundo branco.
+- Definição do ícone da janela.
+- Integração futura com o back-end que será adicionado ao repositório.
+
+Desenvolvido por Ana para o projeto "Na Pele e na Consciência".
+"""
 # Sistema de cadastro, onde o usuário pode cadastrar, visualizar, editar e excluir sua conta (CRUD COMPLETO).
 #Essa parte do código é o front-end, o back-end está sendo implementado para eu adicionar no repositório. 
 # Importando as bibliotecas necessárias
