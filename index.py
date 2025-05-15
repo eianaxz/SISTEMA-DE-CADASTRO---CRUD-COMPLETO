@@ -1,4 +1,5 @@
 # Sistema de cadastro, onde o usuário pode cadastrar, visualizar, editar e excluir sua conta (CRUD COMPLETO).
+#Essa parte do código é o front-end, o back-end está sendo implementado para eu adicionar no repositório. 
 # Importando as bibliotecas necessárias
 
 import os
